@@ -10,9 +10,9 @@
 
 ---
 
-## 🛠️ Devekionebt
-**Skills:** HTML, PHP, CSS, JavaScript, C, Assembly, Python, Lua/Luau
-**Tools:** Git, GitHub, VS Code, Chrome DevTools, Roblox Studio  
+## 🛠️ Development Materials
+- HTML, PHP, CSS, JavaScript, C, Assembly, Python, Lua/Luau
+- Git, GitHub, VS Code, Chrome DevTools, Roblox Studio  
 
 ---
 
