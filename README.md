@@ -26,6 +26,6 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://roblox.com/users/1037780/profile" target="_blank">Roblox</a> •
-  <a href="https://twitter.com/SophieSilliest" target="_blank">X</a>
+  <a href="https://twitter.com/SophieSilliest" target="_blank">X</a> •
   <a href="https://youtube.com/@SilliestSophie" target="_blank">Youtube</a>
 </p>
