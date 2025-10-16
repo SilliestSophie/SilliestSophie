@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/AjkPVVQ.png" width="100%" alt="Background" />
+  <img src="" width="100%" alt="Background" />
 </p>
 
 <h1 align="center">Haiii I'm Sophie!</h1>
@@ -20,7 +20,7 @@
 
 ## 🛠️ Development Materials
 <p align="center">
-  <img src="https://i.imgur.com/overlay-tools.png" width="70%" alt="Tools"/>
+  <img src="https://i.imgur.com/AjkPVVQ.png" width="70%" alt="Tools"/>
 </p>
 
 - JavaScript, C, Assembly, Python, Lua, Rust, Ruby, PHP
