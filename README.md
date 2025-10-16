@@ -20,9 +20,15 @@
   <img src="https://i.imgur.com/AjkPVVQ.png" width="70%" alt="Tools"/>
 </p>
 
-- JavaScript, C, Assembly, Python, Lua, Rust, Ruby, PHP
-- HTML & CSS for web development
-- Git, GitHub, VS Code, Chrome DevTools, Roblox Studio, My PC
+<p align="center">
+  <img src="https://i.imgur.com/4j6Gvk5.png" width="70%" alt="About Me"/>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/wibc3Jq.png" width="70%" alt="About Me"/>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/W8uVxND.png" width="70%" alt="About Me"/>
+</p>
 
 ---
 
