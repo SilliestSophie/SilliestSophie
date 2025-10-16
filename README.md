@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/your-background.gif" width="100%" alt="Background" />
+  <img src="https://i.imgur.com/AjkPVVQ.png" width="100%" alt="Background" />
 </p>
 
 <h1 align="center">Haiii I'm Sophie!</h1>
@@ -9,7 +9,7 @@
 
 ## 💻 About Me
 <p align="center">
-  <img src="https://i.imgur.com/overlay-about.png" width="70%" alt="Glass About Me Panel"/>
+  <img src="https://i.imgur.com/oqqtxVE.png" width="70%" alt="About Me"/>
 </p>
 
 - Experienced in cybersecurity and programming.
@@ -20,7 +20,7 @@
 
 ## 🛠️ Development Materials
 <p align="center">
-  <img src="https://i.imgur.com/overlay-tools.png" width="70%" alt="Glass Tools Panel"/>
+  <img src="https://i.imgur.com/overlay-tools.png" width="70%" alt="Tools"/>
 </p>
 
 - JavaScript, C, Assembly, Python, Lua, Rust, Ruby, PHP
