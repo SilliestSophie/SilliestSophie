@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e8/f2/87/e8f287ea8d9e542199532e56345c9c8d.jpg" width="150" height="150" style="border-radius:50%;" alt="Profile Picture"/>
+  <img src="https://i.pinimg.com/474x/09/13/32/091332cc151e239b39c9e7466b5185db.jpg" width="150" height="150" style="border-radius:50%;" alt="Profile Picture"/>
 </p>
 <h1 align="center">Haiii I'm Sophie!!</h1>
 <p align="center">Full-Stack Developer | Silly Developer | Game Developer</p>
